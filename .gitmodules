@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MECfda"]
 	path = MECfda
-	url = https://github.com/cran/MECfda
+	url = https://github.com/jihx1015/mecfda
